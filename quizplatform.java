@@ -1,4 +1,3 @@
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -115,7 +114,6 @@ class BankingApplicationWithTransfer {
             System.out.println("Invalid amount. Please enter a positive value.");
         } else {
             System.out.println("Insufficient funds for transfer. Transfer not allowed.");
-        }
-    }
+        }
+    }
 }
-
